@@ -142,23 +142,27 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\h--sa\\.nuget\\packages\\": {}
+    "C:\\Users\\Hassan\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\h--sa\\source\\repos\\GitVisualization\\GitVisualization\\GitVisualization.csproj",
+      "projectUniqueName": "C:\\Users\\Hassan\\Desktop\\git_visualization\\GitVisualization\\GitVisualization.csproj",
       "projectName": "GitVisualization",
-      "projectPath": "C:\\Users\\h--sa\\source\\repos\\GitVisualization\\GitVisualization\\GitVisualization.csproj",
-      "packagesPath": "C:\\Users\\h--sa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\h--sa\\source\\repos\\GitVisualization\\GitVisualization\\obj\\",
+      "projectPath": "C:\\Users\\Hassan\\Desktop\\git_visualization\\GitVisualization\\GitVisualization.csproj",
+      "packagesPath": "C:\\Users\\Hassan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Hassan\\Desktop\\git_visualization\\GitVisualization\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\h--sa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Hassan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net5.0-windows7.0"
+        "net5.0-windows"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -203,7 +207,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
